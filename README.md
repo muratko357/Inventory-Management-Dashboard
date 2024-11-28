@@ -4,6 +4,12 @@ _Tools: Power BI, DAX_
 
 This dashboard leverages the power of Power BI and DAX to provide actionable insights into inventory performance and optimization. By analyzing historical sales data and demand patterns, the dashboard enables businesses to streamline stock management, reduce costs, and make informed decisions to maintain optimal inventory levels. Key features include:
 
+<br clear="left"/>
+<div align="center">
+  <img width="600" height="337" alt="Inventory Dashboard" src="Inventory dashboard.png"/>
+</div>
+<br clear="left"/>
+
 **ABC and XYZ Analysis:**
 The dashboard segments products by their revenue contribution (ABC classification) and demand consistency (XYZ classification), allowing businesses to focus on high-priority items with reliable or unpredictable demand patterns.
 
