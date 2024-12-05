@@ -2,7 +2,7 @@
 
 _Tools: Power BI, DAX_
 
-This dashboard leverages the power of Power BI and DAX to provide actionable insights into inventory performance and optimization. By analyzing historical sales data and demand patterns, the dashboard enables businesses to streamline stock management, reduce costs, and make informed decisions to maintain optimal inventory levels. Key features include:
+This dashboard harnesses the capabilities of Power BI and DAX to deliver actionable insights into inventory performance and optimization, using fictional sample data to demonstrate its functionality. By analyzing this simulated historical sales data and demand patterns, the dashboard empowers businesses to streamline stock management, reduce costs, and make informed decisions to maintain optimal inventory levels. Key features include:
 
 <br clear="left"/>
 <div align="center">
